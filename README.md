@@ -1,4 +1,4 @@
-# 🩺 Medical Insurance Cost Analysis using Python 
+# 🩺 Medical Insurance Cost Analysis using Python
  
 ## 📘 Project Overview
 This project explores **factors influencing medical insurance charges** using a dataset of **1,338 individuals** from the U.S. healthcare system.  
